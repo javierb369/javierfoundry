@@ -118,7 +118,7 @@ Licencia
 
  Contacto
  
-•	Desarrollador : Miguel Mejías
+•	Desarrollador : Javier Borges
 
 •	Correo electrónico : [ javierbgsupta@gmail.com ]
 
